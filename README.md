@@ -1,6 +1,6 @@
 <h1 align="center">
-  <a href="https://github.com/oneyottabyte">
-    <img src="https://readme-typing-svg.herokuapp.com/?&color=%239F3CF&lines=Olá,+Devs!+👋;Eu+sou+o+Dorian+...;&center=true&size=30">
+  <a href="https://github.com/gilperon">
+    <img src="https://readme-typing-svg.herokuapp.com/?&color=%239F3CF&lines=Hello,+Devs!+👋;I+am+Gustavo+...;&center=true&size=30">
   </a>
 </h1>
 
@@ -19,15 +19,15 @@
 <br>
 
 <div>
-  <a href="https://github.com/oneyottabyte">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oneyottabyte&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oneyottabyte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/gilperon">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilperon&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilperon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div> 
 
 ### Contatos:
 
 <div>
-  <a href="https://www.instagram.com/oneyottabyte/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:dorianc.vieira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/dorian-vieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.instagram.com/gustavogilperon/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gustavogilperon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gustavo-gil-peron/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
